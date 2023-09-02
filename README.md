@@ -1,27 +1,35 @@
-Hello there! 👋 I'm Vibhuti Kumar, and this is my profile README. Welcome to my corner of the internet.
+# **My Profile README**
 
-About Me
-I'm a Computer Science Engineering student based in India. I'm passionate about coding and love to draw vector art.
+Hello there! 👋 I'm **Vibhuti Kumar**, and this is my profile README. Welcome to my corner of the internet.
 
-🌱 I’m currently learning:
+## **About Me**
+
+I'm a **Computer Science Engineering student** based in **India**. I'm passionate about **coding** and love to draw **vector art**.
+
+### 🌱 **I’m currently learning:**
+
 I'm constantly seeking knowledge and self-improvement. Here are some of the things I'm currently learning:
-Web Development
-Data Structures and Algorithem
 
-📫 How to reach me:
-Email: vibhutikumar30062002@gmail.com
-LinkedIn: https://www.linkedin.com/in/vibhuti-kumar-b12760218/
+- **Web Development**
+- **Data Structures and Algorithms**
 
-😄 Pronouns:
-he/him
+### 📫 **How to reach me:**
 
-My Top Programming Languages
-Java
-Python
-HTML
-CSS
-JavaScript
+- **Email:** vibhutikumar30062002@gmail.com
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/vibhuti-kumar-b12760218/)
 
-Feel free to explore my GitHub repositories for more insights into what I'm working.
+### 😄 **Pronouns:**
+
+- **he/him**
+
+## **My Top Programming Languages**
+
+- **Java**
+- **Python**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+Feel free to explore my **GitHub repositories** for more insights into what I'm working on.
 
 Thanks for stopping by! 👋
