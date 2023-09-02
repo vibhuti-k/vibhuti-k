@@ -1,16 +1,27 @@
-### Hi there 👋
+Hello there! 👋 I'm Vibhuti Kumar, and this is my profile README. Welcome to my corner of the internet.
 
-<!--
-**vibhuti-k/vibhuti-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a Computer Science Engineering student based in India. I'm passionate about coding and love to draw vector art.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+I'm constantly seeking knowledge and self-improvement. Here are some of the things I'm currently learning:
+Web Development
+Data Structures and Algorithem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+Email: vibhutikumar30062002@gmail.com
+LinkedIn: https://www.linkedin.com/in/vibhuti-kumar-b12760218/
+
+😄 Pronouns:
+he/him
+
+My Top Programming Languages
+Java
+Python
+HTML
+CSS
+JavaScript
+
+Feel free to explore my GitHub repositories for more insights into what I'm working.
+
+Thanks for stopping by! 👋
