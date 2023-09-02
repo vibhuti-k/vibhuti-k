@@ -1,6 +1,6 @@
-# **My Profile README**
+# **Hello there! 👋**
 
-Hello there! 👋 I'm **Vibhuti Kumar**, and this is my profile README. Welcome to my corner of the internet.
+I'm **Vibhuti Kumar**, and this is my profile README. Welcome to my corner of the internet.
 
 ## **About Me**
 
